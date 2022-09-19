@@ -1,5 +1,5 @@
 extern crate tera;
 
 fn main() {
-    println!("Hello, world!");
+    println!("bbq bacon burger");
 }
